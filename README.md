@@ -1,10 +1,10 @@
 # vue-3-pinia-basic-auth
 
-Vue 3 + Pinia + Vite - HTTP Basic Authentication
+Vue 3 + Pinia + Vite - HTTP Basic Authentication towards Python FastAPI
 
 # Last updated:
 
-- 30-09-2025
+- 03-01-2026
 
 # Tech used for this Web Client
 
