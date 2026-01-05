@@ -2,7 +2,7 @@
 
 Vue 3 + Pinia + Vite - HTTP Basic Authentication towards Python FastAPI
 
-# Last updated:
+# Last updated
 
 - 05-01-2026
 
