@@ -20,7 +20,7 @@ function onSubmit(values, { setErrors }) {
 
 <template>
     <div>
-        <h3>Vue 3 SPA + FastAPI doing Basic Authentication</h3>
+        <h3>Vue 3 SPA + FastAPI doing HTTP Basic Authentication</h3>
         
         <br/><br />
         Last updated 27-01-2026<br /><br />
