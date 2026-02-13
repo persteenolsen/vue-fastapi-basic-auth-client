@@ -4,7 +4,7 @@ Vue 3 + Pinia + Vite - HTTP Basic Authentication towards Python FastAPI
 
 # Last updated
 
-- 12-02-2026
+- 13-02-2026
 
 # Tech used for this Web Client
 
