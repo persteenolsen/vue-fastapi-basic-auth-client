@@ -23,7 +23,7 @@ function onSubmit(values, { setErrors }) {
         <h3>Vue 3 SPA + FastAPI doing HTTP Basic Authentication</h3>
         
         <br/><br />
-        Last updated 28-03-2026<br /><br />
+        Last updated 14-06-2026<br /><br />
 
         <div class="alert alert-info">
                 
