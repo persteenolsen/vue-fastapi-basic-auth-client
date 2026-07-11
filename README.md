@@ -1,13 +1,13 @@
-# Vue 3 + Pinia + Vite + HTTP Basic Authentication Client
+# 🔐 Vue 3 + Pinia + Vite + HTTP Basic Authentication Client
 
 A Vue 3 frontend application that communicates with a FastAPI backend using HTTP Basic Authentication. Includes form validation, state management, and a modern Vite development setup.
 
-Last updated:
+**Last updated:**
 - 14-06-2026
 
 ---
 
-## Features
+## ✨ Features
 
 - Vue 3 frontend framework
 - Pinia state management
@@ -19,7 +19,7 @@ Last updated:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - Node.js 18.19.1
 - Vue 3
@@ -33,21 +33,21 @@ Last updated:
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1️⃣ Clone the repository
 
 - git clone <your-repository-url>
 
-### 2. Install dependencies
+### 2️⃣ Install dependencies
 
-Make sure you have Node.js installed (recommended via Volta or nvm)
+Make sure you have Node.js installed (recommended via Volta or nvm).
 
 - npm install
 
 ---
 
-## Development
+## 💻 Development
 
 Start the local development server:
 
@@ -59,7 +59,7 @@ The app will be available at:
 
 ---
 
-## Production Build
+## 📦 Production Build
 
 Create an optimized production build:
 
@@ -67,7 +67,7 @@ Create an optimized production build:
 
 ---
 
-## Preview Production Build
+## 👀 Preview Production Build
 
 Run a local preview of the production build:
 
@@ -79,7 +79,7 @@ Available at:
 
 ---
 
-## Authentication Flow
+## 🔄 Authentication Flow
 
 - User logs in using username + password
 - Credentials are sent using HTTP Basic Authentication
@@ -89,7 +89,7 @@ Available at:
 
 ---
 
-## Project Structure
+## 🏗️ Project Structure
 
 - src/components/ → Vue components
 - src/views/ → Page-level views
@@ -100,7 +100,7 @@ Available at:
 
 ---
 
-## Backend Dependency
+## 🔗 Backend Dependency
 
 This frontend is designed to work with the following backend:
 
@@ -112,7 +112,7 @@ Make sure the backend is running at:
 
 ---
 
-## Notes
+## 📝 Notes
 
 - Ensure CORS is properly configured in FastAPI backend
 - Always use HTTPS in production environments
@@ -121,7 +121,7 @@ Make sure the backend is running at:
 
 ---
 
-## Build & Deploy
+## ☁️ Build & Deploy
 
 This project can be deployed using:
 
