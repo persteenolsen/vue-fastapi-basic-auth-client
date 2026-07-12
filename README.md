@@ -10,6 +10,8 @@ A Vue 3 frontend application that communicates with a FastAPI backend using HTTP
 ## ✨ Features
 
 - Vue 3 frontend framework
+- Login and logout
+- Silent login possible if valid credentials exists in localStorage
 - Pinia state management
 - HTTP Basic Authentication integration with FastAPI
 - Form validation with VeeValidate + Yup
