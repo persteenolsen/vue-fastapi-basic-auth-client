@@ -1,9 +1,9 @@
-# 🔐 Vue 3 + Pinia + Vite + HTTP Basic Authentication Client
+# 🔐 Vue 3 + Pinia HTTP Basic Authentication Client (FastAPI Integration)
 
 A Vue 3 frontend application that communicates with a FastAPI backend using HTTP Basic Authentication. Includes form validation, state management, and a modern Vite development setup.
 
 **Last updated:**
-- 14-06-2026
+- 14-07-2026
 
 ---
 
