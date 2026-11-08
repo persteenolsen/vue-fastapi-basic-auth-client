@@ -3,7 +3,7 @@
 A Vue 3 frontend application that communicates with a FastAPI backend using HTTP Basic Authentication. Includes form validation, state management, and a modern Vite development setup.
 
 **Last updated:**
-- 18-09-2026
+- 08-11-2026
 
 ---
 
